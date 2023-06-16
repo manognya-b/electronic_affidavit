@@ -30,4 +30,7 @@ YOLOv5 is a well known deep learning (object detection using computer vision) mo
 
 ![WhatsApp Image 2023-06-16 at 11 11 38](https://github.com/manognya-b/electronic_affidavit/assets/100461186/f4c10e39-e0c6-4b18-80a4-a2932abdfc5d)<br>
 
+![ma face](https://github.com/manognya-b/electronic_affidavit/assets/100461186/307e4ebe-d7d1-4daa-bffa-5ac1836b2f8e)<br>
+
+![ma face 2](https://github.com/manognya-b/electronic_affidavit/assets/100461186/ff404dfa-e4c2-4cd4-8437-34a82bac9e1f)<br>
 
