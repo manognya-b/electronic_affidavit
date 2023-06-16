@@ -16,11 +16,12 @@ YOLOv5 is a well known deep learning (object detection using computer vision) mo
 
 ## How it works: 
 
-### 1. Welcome! 
+Upon running the application, the login page is what greets you first. <br>
 ![WhatsApp Image 2023-06-16 at 11 08 04](https://github.com/manognya-b/electronic_affidavit/assets/100461186/10053e65-3ffd-46bb-aaf4-011a7bda6194) <br>
 
-### 2. Register a a new user:
+In case you're not part of the app's database yet, register first.
 ![WhatsApp Image 2023-06-16 at 11 08 35](https://github.com/manognya-b/electronic_affidavit/assets/100461186/7f575873-6765-41be-81c2-5585fef22304) <br>
+
 
 ![WhatsApp Image 2023-06-16 at 11 10 08](https://github.com/manognya-b/electronic_affidavit/assets/100461186/069ad95e-4229-44bb-9c74-31a68e40b074)<br>
 
