@@ -1,0 +1,37 @@
+.anil
+{
+    background-image:url("https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.login
+{
+    font-family: monospace;
+    margin-left:700px;
+}
+.greet
+{
+    font-size:30px;
+    font-weight:bold;
+
+}
+.caution
+{
+    font-family: monospace;
+    font-size: 15px;
+}
+.bottom
+{
+    margin-top:50px;
+}
+.log
+{
+    font-family: monospace;
+    font-size:60px;
+    color:rgb(0, 0, 0)
+}
+.uname
+{
+    font-weight: bold;
+}
