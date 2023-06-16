@@ -1,5 +1,5 @@
 # electronic_affidavit
-A facial recognition system created using YOLOv5, MERN, Flask, and MongoDB.
+A facial recognition system created using YOLOv5, MERN, FastAPI, and MongoDB.
 
 ## Initial Motivation:
 
@@ -8,7 +8,7 @@ YOLOv5 is a well known deep learning (object detection using computer vision) mo
 ## Technology Stack:
 
 **Front End:** ReactJS <br>
-**Back End:** Node.js, Express.js, Flask (API integration) <br>
+**Back End:** Node.js, Express.js, FAST (API integration) <br>
 **Model:** YOLOv5 <br>
 **Database:** MongoDB <br>
 <br>
