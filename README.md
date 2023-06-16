@@ -16,18 +16,22 @@ YOLOv5 is a well known deep learning (object detection using computer vision) mo
 
 ## How it works: 
 
-Upon running the application, the login page is what greets you first. <br>
+Upon running the application, the login page plays the role of the landing page. <br> 
+<br>
 ![WhatsApp Image 2023-06-16 at 11 08 04](https://github.com/manognya-b/electronic_affidavit/assets/100461186/10053e65-3ffd-46bb-aaf4-011a7bda6194) <br>
 
-In case you're not part of the app's database yet, register first.
+In case the user is not part of the app's database yet, they register first.<br> 
+<br>
 ![WhatsApp Image 2023-06-16 at 11 08 35](https://github.com/manognya-b/electronic_affidavit/assets/100461186/7f575873-6765-41be-81c2-5585fef22304) <br>
 
-
-![WhatsApp Image 2023-06-16 at 11 10 08](https://github.com/manognya-b/electronic_affidavit/assets/100461186/069ad95e-4229-44bb-9c74-31a68e40b074)<br>
-
+If the registration is successful, the user is notified of the same.<br>
+<br>
 ![WhatsApp Image 2023-06-16 at 11 10 25](https://github.com/manognya-b/electronic_affidavit/assets/100461186/01bdcf32-c7ce-4dd4-a230-c85ea47faee7)<br>
 
+Now, re-login is required for validation and ensuring the database has, in fact, correctly enetered the user details.<br>
+<br>
 ![WhatsApp Image 2023-06-16 at 11 11 21](https://github.com/manognya-b/electronic_affidavit/assets/100461186/4ac8b10b-0772-49e6-a12a-c11f353ea9db)<br>
+
 
 ![WhatsApp Image 2023-06-16 at 11 11 38](https://github.com/manognya-b/electronic_affidavit/assets/100461186/f4c10e39-e0c6-4b18-80a4-a2932abdfc5d)<br>
 
